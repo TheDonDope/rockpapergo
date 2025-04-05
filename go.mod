@@ -1,6 +1,6 @@
 module github.com/TheDonDope/rockpapergo
 
-go 1.24.0
+go 1.24.2
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
